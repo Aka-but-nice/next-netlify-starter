@@ -4,7 +4,7 @@
    "keywords": [],
    "description": "",
    "dependencies": {
-      "http": "^0.0.1"
+    "http": "^0.0.0"
    },
    "scripts": {
        "start": "node index.js"
